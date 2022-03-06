@@ -29,7 +29,7 @@
   align-items: center;
   background: linear-gradient(270deg, #50182678, #0e38394b);
   height: 180px;
-  width: 360px;
+  width: 300px;
   color: #f60642;
   text-shadow: 1px 1px 7px;
   border-radius: 1rem;
@@ -46,7 +46,7 @@
   padding: 1rem;
 }
 .clock section p {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .clock section small {
   color: rgb(255, 255, 255);
